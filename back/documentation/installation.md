@@ -13,7 +13,7 @@
 ### 1 Clone the repository
 
 ```bash
-git clone git@github.com:thomaskanzig/symfony-react-demo.git .
+git clone git@github.com:helyahyaoui/product-trial-master.git .
 ```
 
 ### 2 Config environment file
