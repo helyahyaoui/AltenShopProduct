@@ -96,7 +96,7 @@ class Product
         return $this;
     }
 
-    public function getCreatedAt(): ?\DateTimeImmutable
+    public function getCreatedAt(): ?\DateTimeImmutale
     {
         return $this->created_at;
     }

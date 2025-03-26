@@ -1,5 +1,5 @@
 # Digital Store
-This is a demo project built with [`React.js`](https://reactjs.org/) and [`Symfony`](https://symfony.com/) with a simple feature to list products with an authentication section.
+This is project built with [`React.js`](https://reactjs.org/) and [`Symfony`](https://symfony.com/) with a simple feature to list products with an authentication section.
 
 ## 1 Browser Support
 
